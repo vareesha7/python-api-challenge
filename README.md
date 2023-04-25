@@ -118,3 +118,4 @@ Create a new DataFrame called hotel_df to store the city, country, coordinates, 
 For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 
 Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
+git test
